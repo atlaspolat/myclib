@@ -16,6 +16,9 @@ int multiply(int x, int y){
     return x * y;
 }
 
+// This some work done by my collegue
+
+
 int divide(int dividend, int divisor){
     if(divisor == 0){
         printf("Error: Division by zero is not allowed.");
@@ -23,3 +26,6 @@ int divide(int dividend, int divisor){
     }
     return dividend / divisor;
 }
+
+
+// Some other work
