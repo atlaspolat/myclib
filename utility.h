@@ -2,16 +2,15 @@
 #define UTILITY_H
 
 
-int add(int num1, int num2){
-    return num1 + num2;
-}
+int add(int num1, int num2);
 
-int substract(int a, int b){
-
-    return a - b;
-}
+int substract(int a, int b);
 
 
+int multiply(int x, int y);
+
+
+int divide(int dividend, int divisor);
 
 #endif // UTILITY_H
 
