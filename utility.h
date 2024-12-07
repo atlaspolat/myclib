@@ -12,5 +12,7 @@ int multiply(int x, int y);
 
 int divide(int dividend, int divisor);
 
+int remainder(int dividend, int divisor);
+
 #endif // UTILITY_H
 
